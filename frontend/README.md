@@ -34,7 +34,7 @@ Dashboard web moderne pour la prédiction du SoH des batteries.
 
 3. **URL publique**
 ```
-   https://battery-soh.vercel.app
+   https://battery-soh-predictor.vercel.app/
 ```
 
 4. **Configurer l'API**
