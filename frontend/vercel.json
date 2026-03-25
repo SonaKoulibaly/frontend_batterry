@@ -1,5 +1,9 @@
 {
   "version": 2,
+  "public": "frontend"
+}
+{
+  "version": 2,
   "builds": [
     {
       "src": "index.html",
